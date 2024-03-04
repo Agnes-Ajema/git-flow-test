@@ -1,0 +1,24 @@
+#case{
+    text-align: right;
+    padding: px 20px;
+}
+.team{
+    display: flex;
+    justify-content: right;
+    word-spacing: 20px;
+    
+    
+    
+    
+    
+    
+    
+}
+#button{
+    color: white;
+    background-color:black;
+    padding: 1px;
+    border: solid 2px;
+}
+
+
