@@ -1,0 +1,14 @@
+.form{
+    display: flex;
+    justify-content:space-between;
+    bottom: 50px;
+    text-align: center;
+    position: absolute;
+    gap:200px;
+    font-size: xx-large;
+
+
+
+    
+
+}
